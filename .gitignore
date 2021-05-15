@@ -129,3 +129,6 @@ dmypy.json
 .pyre/
 *.xml
 *.iml
+.DS_Store
+iris.csv
+.DS_Store
