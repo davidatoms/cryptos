@@ -1,5 +1,5 @@
 # cryptos
-Columbia Data Analytics Boot Camp - Module 18 - Unsupervised Machine Learning and Cryptocurrencies - Used unsupervised machine learning techniques to analyze cryptocurrency data.
+*Columbia Data Analytics Boot Camp* - Module 18 - Unsupervised Machine Learning and Cryptocurrencies - Used unsupervised machine learning techniques to analyze cryptocurrency data.
 
 ## What I Learned/Achieved:
 - How to describe the differences between supervised and unsupervised learning, including real-world examples of each.
@@ -16,4 +16,17 @@ The second task is to create a table about the data that stores the data for imm
 Lastly, the data should be presented in a 2-D format to show a different insight into the data and highlight
 possible relationships. 
 
+## Results:
+The results are a visualization of the different cryptocurrencies and their supply levels. This is valuable economic information because the supply with the demand affect the price of the currency being traded. The visualization is pretty, the data from the table is useful, and the 2-D shows some correlation in total coins in supply and total coins mined.
 
+_3D Graph_ :
+
+![3D Supply and Coins Mined Graph](Images/3D_Plot_Crypto.png)
+
+_Crypto Table_ :
+
+![Cryptos Table](Images/Cryptos_Table.png)
+
+_Bokeh Plot of Cryptos_ :
+
+![Bokeh Plot of Cryptos](Images/Cryptos_Table.png)
