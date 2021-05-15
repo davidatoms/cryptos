@@ -29,4 +29,4 @@ _Crypto Table_ :
 
 _Bokeh Plot of Cryptos_ :
 
-![Bokeh Plot of Cryptos](Images/Cryptos_Table.png)
+![Bokeh Plot of Cryptos](Images/Bokeh_Plot_Crypto.png)
