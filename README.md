@@ -21,12 +21,12 @@ The results are a visualization of the different cryptocurrencies and their supp
 
 _3D Graph_ :
 
-![3D Supply and Coins Mined Graph]('Images/3D_Plot_Crypto.png')
+![3D Supply and Coins Mined Graph](Images/3D_Plot_Crypto.png)
 
 _Crypto Table_ :
 
-![Cryptos Table]('Images/Cryptos_Table.png')
+![Cryptos Table](Images/Cryptos_Table.png)
 
 _Bokeh Plot of Cryptos_ :
 
-![Bokeh Plot of Cryptos]('Images/Cryptos_Table.png')
+![Bokeh Plot of Cryptos](Images/Cryptos_Table.png)
